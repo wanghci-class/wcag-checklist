@@ -150,10 +150,6 @@
 
 * [2.5.8 Target Size (Minimum)](https://www.w3.org/TR/WCAG22/#target-size-minimum)
     * Pointer input target sizes are at least 24 by 24 pixels unless:<ul><li>A 24 pixel diameter circle centered on the target element does not intersect with any other target or a 24 pixel circle centered on an adjacent target.</li><li>The functionality can be achieved in some other conformant manner.</li><li>The target is in a sentence or list.</li><li>The target size can't be modified or is essential to the functionality.</li></ul>
-    * A 24 pixel diameter circle centered on the target element does not intersect with any other target or a 24 pixel circle centered on an adjacent target.
-    * The functionality can be achieved in some other conformant manner.
-    * The target is in a sentence or list.
-    * The target size can't be modified or is essential to the functionality.
     <!--END CRITERION-->
 
 <!--END GUIDELINE-->

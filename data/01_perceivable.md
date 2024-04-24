@@ -117,11 +117,6 @@
 
 * [1.4.8 Visual Presentation](https://www.w3.org/TR/WCAG22/#visual-presentation)
     * Blocks of text over one sentence in length:<ul><li>Are no more than 80 characters wide.</li><li>Are NOT fully justified (aligned to both the left and the right margins).</li><li>Have adequate line spacing (at least 1/2 the height of the text) and paragraph spacing (1.5 times line spacing).</li><li>Have defined or inherited foreground and background colors.</li><li>Do NOT require horizontal scrolling when the text size is doubled.</li></ul>
-    * Are no more than 80 characters wide.
-    * Are NOT fully justified (aligned to both the left and the right margins).
-    * Have adequate line spacing (at least 1/2 the height of the text) and paragraph spacing (1.5 times line spacing).
-    * Have defined or inherited foreground and background colors.
-    * Do NOT require horizontal scrolling when the text size is doubled.
     <!--END CRITERION-->
 
 * [1.4.9 Images of Text (No Exception)](https://www.w3.org/TR/WCAG22/#images-of-text-no-exception)
@@ -130,7 +125,6 @@
 
 * [1.4.10 Reflow](https://www.w3.org/TR/WCAG22/#reflow)
     * No loss of content or functionality occurs, and horizontal scrolling is avoided when content is presented at a width of 320 pixels.<ul><li>This requires responsive design for most web sites. This is best tested by setting the browser window to 1280 pixels wide and then zooming the page content to 400%.</li></ul>
-    * This requires responsive design for most web sites. This is best tested by setting the browser window to 1280 pixels wide and then zooming the page content to 400%.
     * Content that requires horizontal scrolling, such as data tables, complex images (such as maps and charts), toolbars, etc. are exempted.
     <!--END CRITERION-->
 
@@ -146,9 +140,6 @@
 
 * [1.4.13 Content on Hover or Focus](https://www.w3.org/TR/WCAG22/#content-on-hover-or-focus)
     * When additional content is presented on hover or keyboard focus:<ul><li>The newly revealed content can be dismissed (generally via the Esc key) without moving the pointer or keyboard focus, unless the content presents an input error or does not obscure or interfere with other page content.</li><li>The pointer can be moved to the new content without the content disappearing.</li><li>The new content must remain visible until the pointer or keyboard focus is moved away from the triggering control, the new content is dismissed, or the new content is no longer relevant.</li></ul>
-    * The newly revealed content can be dismissed (generally via the Esc key) without moving the pointer or keyboard focus, unless the content presents an input error or does not obscure or interfere with other page content.
-    * The pointer can be moved to the new content without the content disappearing.
-    * The new content must remain visible until the pointer or keyboard focus is moved away from the triggering control, the new content is dismissed, or the new content is no longer relevant.
     <!--END CRITERION-->
 
 <!--END GUIDELINE-->
